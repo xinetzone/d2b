@@ -1,4 +1,4 @@
-# 动手学习 Python
+# 动手学习嵌入式开发
 
 ```{include} ../README.md
 ```
@@ -12,7 +12,7 @@ tutorials/index
 
 ## 看看谁在使用
 
-使用 [libraries.io](https://libraries.io/pypi/d2b) 查看谁在使用 {mod}`d2b`。
+使用 [libraries.io](https://libraries.io/pypi/boardx) 查看谁在使用 {mod}`boardx`。
 
 # 索引和表格
 
