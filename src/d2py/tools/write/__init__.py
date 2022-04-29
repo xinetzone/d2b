@@ -19,7 +19,7 @@ from . import release
 #     return namespace
 
 def site(source='docs', target='output/html', children=''):
-    source = children if children else source
+    source = children or source
     _config = {"sphinx": {
         "source": source,
         "target": f"{target}/{children}"
