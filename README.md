@@ -1,4 +1,4 @@
-[![PyPI](https://img.shields.io/pypi/v/d2py.svg)](https://pypi.org/project/d2py/) [![GitHub issues](https://img.shields.io/github/issues/xinetzone/d2py)](https://github.com/xinetzone/d2py/issues) [![GitHub forks](https://img.shields.io/github/forks/xinetzone/d2py)](https://github.com/xinetzone/d2py/network) [![GitHub stars](https://img.shields.io/github/stars/xinetzone/d2py)](https://github.com/xinetzone/d2py/stargazers) [![GitHub license](https://img.shields.io/github/license/xinetzone/d2py)](https://github.com/xinetzone/d2py/blob/main/LICENSE) ![repo size](https://img.shields.io/github/repo-size/xinetzone/d2py.svg) [![contributors](https://img.shields.io/github/contributors/xinetzone/d2py.svg)](https://github.com/xinetzone/d2py/graphs/contributors) [![watcher](https://img.shields.io/github/watchers/xinetzone/d2py.svg)](https://github.com/xinetzone/d2py/watchers) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/xinetzone/d2py/main) [![Downloads](https://pepy.tech/badge/d2py/week)](https://pepy.tech/project/d2py) [![Downloads](https://pepy.tech/badge/d2py)](https://pepy.tech/project/d2py) [![Documentation Status](https://readthedocs.org/projects/d2py/badge/?version=latest)](https://d2py.readthedocs.io/zh/latest/?badge=latest)
+[![PyPI](https://img.shields.io/pypi/v/boardx.svg)](https://pypi.org/project/boardx/) [![GitHub issues](https://img.shields.io/github/issues/xinetzone/d2b)](https://github.com/xinetzone/d2b/issues) [![GitHub forks](https://img.shields.io/github/forks/xinetzone/d2b)](https://github.com/xinetzone/d2b/network) [![GitHub stars](https://img.shields.io/github/stars/xinetzone/d2b)](https://github.com/xinetzone/d2b/stargazers) [![GitHub license](https://img.shields.io/github/license/xinetzone/d2b)](https://github.com/xinetzone/d2b/blob/main/LICENSE) ![repo size](https://img.shields.io/github/repo-size/xinetzone/d2b.svg) [![contributors](https://img.shields.io/github/contributors/xinetzone/d2b.svg)](https://github.com/xinetzone/d2b/graphs/contributors) [![watcher](https://img.shields.io/github/watchers/xinetzone/d2b.svg)](https://github.com/xinetzone/d2b/watchers) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/xinetzone/d2b/main) [![Downloads](https://pepy.tech/badge/boardx/week)](https://pepy.tech/project/boardx) [![Downloads](https://pepy.tech/badge/boardx)](https://pepy.tech/project/boardx) [![Documentation Status](https://readthedocs.org/projects/boardx/badge/?version=latest)](https://boardx.readthedocs.io/zh/latest/?badge=latest)
 
 Discover and create anything interesting!
 
@@ -7,7 +7,7 @@ Discover and create anything interesting!
 Provide PyPI support:
 
 ```sh
-pip install d2py
+pip install boardx
 ```
 
-For documentation see [d2py](https://xinetzone.github.io/d2py).
+For documentation see [d2b](https://xinetzone.github.io/d2b).
